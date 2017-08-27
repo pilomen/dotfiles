@@ -1,0 +1,14 @@
+# Let dein manage dein
+# Required:
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+# Add or remove your plugins here:
+[[plugins]]
+repo = 'Shougo/neosnippet.vim'
+
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+
+[[plugins]]
+repo = 'editorconfig/editorconfig-vim'
