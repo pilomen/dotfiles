@@ -44,8 +44,15 @@ endif
 
 "End dein Scripts-------------------------
 
- set number
- set tabstop=4
- set shiftwidth=4
- set incsearch
- set hlsearch
+set laststatus=2
+set statusline=%F%r%h%=
+set number
+set tabstop=4
+set shiftwidth=4
+set incsearch
+set hlsearch
+set list
+set listchars=tab:»_,trail:~ ",extends:»,precedes:«
+
+set cursorline
+highlight StatusLine term=none cterm=none ctermfg=black ctermbg=grey
