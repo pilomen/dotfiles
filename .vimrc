@@ -53,4 +53,4 @@ set list
 set listchars=tab:»_,trail:~ ",extends:»,precedes:«
 
 set cursorline
-highlight StatusLine term=none cterm=none ctermfg=black ctermbg=grey
+colorscheme molokai
