@@ -44,8 +44,6 @@ endif
 
 "End dein Scripts-------------------------
 
-set laststatus=2
-set statusline=%F%r%h%=
 set number
 set tabstop=4
 set shiftwidth=4
