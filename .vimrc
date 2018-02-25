@@ -53,7 +53,7 @@ set list
 set listchars=tab:»_,trail:~ ",extends:»,precedes:«
 
 set wildmenu
-set history=5000
+set history=2000
 
 autocmd ColorScheme * highlight Comment ctermfg=102
 autocmd ColorScheme * highlight Delimiter ctermfg=138
