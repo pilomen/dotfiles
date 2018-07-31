@@ -54,6 +54,8 @@ set listchars=tab:»_,trail:~ ",extends:»,precedes:«
 
 set wildmenu
 set history=2000
+set clipboard&
+set clipboard^=unnamedplus
 
 autocmd ColorScheme * highlight Comment ctermfg=102
 autocmd ColorScheme * highlight Delimiter ctermfg=138
