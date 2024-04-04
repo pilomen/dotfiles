@@ -1,3 +1,5 @@
+" https://github.com/junegunn/vim-plug を使用
+"  - vim-plug 自体の install 後に vim を起動して :PlugInstall コマンドを実行して plugin の install が必要
 call plug#begin()
 " The default plugin directory will be as follows:
 "   - Vim (Linux/macOS): '~/.vim/plugged'
